@@ -1,4 +1,4 @@
-Trains ThoughtWorks Applicant Sample Application 
+Trains Applicant Sample Application 
 
 About
 -------
